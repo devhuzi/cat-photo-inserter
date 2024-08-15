@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CatPhotoInserterTest::testFetchAndInsertCatPhotos":4},"times":{"SampleTest::testTrueIsTrue":0.003,"CatPhotoInserterTest::testPluginInitialization":0.003,"CatPhotoInserterTest::testAdminClassExists":0,"CatPhotoInserterTest::testPublicClassExists":0,"CatPhotoInserterTest::testFetchAndInsertCatPhotos":0.001}}
